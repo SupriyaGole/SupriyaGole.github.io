@@ -17,6 +17,7 @@ categories: jekyll update
    Mafiya- We plays mafiya . We were not familier with this game. But Jayanth told us about this game. And I find it more interesting while playing with bunch of people. From this game I learnt how to convince people and how to present our point in front of people if we have enough knowledge and enough evidence about topic.
 
    They taught many things other than programming. Like about share markets, How share market works,How so many funds ,companies work. about insurance,investment and so many things about finannce. So we get a lot to learn because of that.
+   He spend lot of time to making me realize that what are the things will make difference when i am doing programming. Why its important to spend some time with myself. And focus on one thing . Be precise. So many things i learn. Now a days, it is helping me i programming.
 
    I didnt mension about Trishna mam. She is also one of the mentor. She is very nice. I got many learnings from her. about food habits, and if i become upset then she will concern me. She will take care of we all. All mentors takes care of we all a lot.
 
