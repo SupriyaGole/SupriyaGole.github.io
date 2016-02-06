@@ -14,9 +14,6 @@ layout: default
           <h2>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
             <p class="meta">{{ post.excerpt | strip_html | truncate: 60 }}...</p>
-            <div class="comment">
-              <input type="submit" value="Write a comment..." id="myComment"></input>
-            </div>
           </h2>
           <hr/>
         </li>
